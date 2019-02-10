@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/" xml:lang="ja"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:admin="http://webns.net/mvcb/"
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<channel rdf:about="http://math.meijo-u.ac.jp/sugakukai/">
+		<title>名城大学 数学会</title>
+		<link>http://math.meijo-u.ac.jp/sugakukai/</link>
+		<description>名城大学 数学会のHPです</description>
+		<admin:generatorAgent rdf:resource="http://www.nishishi.com/soft/rssmaker/" />
+		<dc:date>2019-02-10T16:41:30+09:00</dc:date>
+		<dc:creator>名城大学 数学会</dc:creator>
+		<dc:subject></dc:subject>
+		<dc:rights>Copyright (c) 2019, 名城大学 数学会</dc:rights>
+		<sy:updatePeriod>yearly</sy:updatePeriod>
+		<sy:updateFrequency>6</sy:updateFrequency>
+		<items>
+			<rdf:Seq>
+				<rdf:li rdf:resource="http://math.meijo-u.ac.jp/sugakukai/src/index.html" />
+				<rdf:li rdf:resource="http://math.meijo-u.ac.jp/sugakukai/src/album/20190114.html" />
+				<rdf:li rdf:resource="http://math.meijo-u.ac.jp/sugakukai/src/contact.html" />
+				<rdf:li rdf:resource="http://math.meijo-u.ac.jp/sugakukai/src/greet.html" />
+				<rdf:li rdf:resource="http://math.meijo-u.ac.jp/sugakukai/src/member.html" />
+				<rdf:li rdf:resource="http://math.meijo-u.ac.jp/sugakukai/src/report/20180108.html" />
+				<rdf:li rdf:resource="http://math.meijo-u.ac.jp/sugakukai/src/report/20180210.html" />
+				<rdf:li rdf:resource="http://math.meijo-u.ac.jp/sugakukai/src/report/20180320.html" />
+				<rdf:li rdf:resource="http://math.meijo-u.ac.jp/sugakukai/src/report/20180610.html" />
+				<rdf:li rdf:resource="http://math.meijo-u.ac.jp/sugakukai/src/report/20190114.html" />
+				<rdf:li rdf:resource="http://math.meijo-u.ac.jp/sugakukai/src/report.html" />
+				<rdf:li rdf:resource="http://math.meijo-u.ac.jp/sugakukai/index.html" />
+				<rdf:li rdf:resource="http://math.meijo-u.ac.jp/sugakukai/src/album/20170611.html" />
+				<rdf:li rdf:resource="http://math.meijo-u.ac.jp/sugakukai/src/album/20180108.html" />
+				<rdf:li rdf:resource="http://math.meijo-u.ac.jp/sugakukai/src/album/20180320.html" />
+				<rdf:li rdf:resource="http://math.meijo-u.ac.jp/sugakukai/src/album/20180610.html" />
+				<rdf:li rdf:resource="http://math.meijo-u.ac.jp/sugakukai/src/album/20180918.html" />
+				<rdf:li rdf:resource="http://math.meijo-u.ac.jp/sugakukai/src/album.html" />
+			</rdf:Seq>
+		</items>
+	</channel>
+	<!-- ENTRIES -->
+	<item rdf:about="http://math.meijo-u.ac.jp/sugakukai/src/index.html">
+		<title>名城大学 数学会</title>
+		<link>http://math.meijo-u.ac.jp/sugakukai/src/index.html</link>
+			<description><![CDATA[名城大学 数学会のサイトです．名城大学理工学部の同窓会サイトです．]]></description>
+		<dc:date>2019-02-10T14:43:10+09:00</dc:date>
+		<dc:subject>名城大学,数学会,同窓会,理工学部,数学科</dc:subject>
+		<content:encoded><![CDATA[名城大学 数学会へようこそ
+]]></content:encoded>
+	</item>
+	<item rdf:about="http://math.meijo-u.ac.jp/sugakukai/src/album/20190114.html">
+		<title>名城大学 数学会</title>
+		<link>http://math.meijo-u.ac.jp/sugakukai/src/album/20190114.html</link>
+			<description><![CDATA[名城大学 数学会のサイトです．名城大学理工学部の同窓会サイトです．]]></description>
+		<dc:date>2019-02-10T12:15:56+09:00</dc:date>
+		<dc:subject>名城大学,数学会,同窓会,理工学部,数学科</dc:subject>
+		<content:encoded><![CDATA[名城大学 数学会へようこそ
+]]></content:encoded>
+	</item>
+	<item rdf:about="http://math.meijo-u.ac.jp/sugakukai/src/contact.html">
+		<title>お問い合わせ|名城大学 数学会</title>
+		<link>http://math.meijo-u.ac.jp/sugakukai/src/contact.html</link>
+			<description><![CDATA[名城大学 数学会のサイトです．名城大学理工学部の同窓会サイトです．]]></description>
+		<dc:date>2019-02-10T12:15:56+09:00</dc:date>
+		<dc:subject>名城大学,数学会,同窓会,理工学部,数学科</dc:subject>
+		<content:encoded><![CDATA[名城大学 数学会へようこそ
+]]></content:encoded>
+	</item>
+	<item rdf:about="http://math.meijo-u.ac.jp/sugakukai/src/greet.html">
+		<title>会長挨拶|名城大学 数学会</title>
+		<link>http://math.meijo-u.ac.jp/sugakukai/src/greet.html</link>
+			<description><![CDATA[名城大学 数学会のサイトです．名城大学理工学部の同窓会サイトです．]]></description>
+		<dc:date>2019-02-10T12:15:56+09:00</dc:date>
+		<dc:subject>名城大学,数学会,同窓会,理工学部,数学科</dc:subject>
+		<content:encoded><![CDATA[名城大学 数学会へようこそ
+]]></content:encoded>
+	</item>
+	<item rdf:about="http://math.meijo-u.ac.jp/sugakukai/src/member.html">
+		<title>役員紹介|名城大学 数学会</title>
+		<link>http://math.meijo-u.ac.jp/sugakukai/src/member.html</link>
+			<description><![CDATA[名城大学 数学会のサイトです．名城大学理工学部の同窓会サイトです．]]></description>
+		<dc:date>2019-02-10T12:15:56+09:00</dc:date>
+		<dc:subject>名城大学,数学会,同窓会,理工学部,数学科</dc:subject>
+		<content:encoded><![CDATA[名城大学 数学会へようこそ
+]]></content:encoded>
+	</item>
+	<item rdf:about="http://math.meijo-u.ac.jp/sugakukai/src/report/20180108.html">
+		<title>名城大学 数学会</title>
+		<link>http://math.meijo-u.ac.jp/sugakukai/src/report/20180108.html</link>
+			<description><![CDATA[名城大学 数学会のサイトです．名城大学理工学部の同窓会サイトです．]]></description>
+		<dc:date>2019-02-10T12:15:56+09:00</dc:date>
+		<dc:subject>名城大学,数学会,同窓会,理工学部,数学科</dc:subject>
+		<content:encoded><![CDATA[名城大学 数学会へようこそ
+]]></content:encoded>
+	</item>
+	<item rdf:about="http://math.meijo-u.ac.jp/sugakukai/src/report/20180210.html">
+		<title>名城大学 数学会</title>
+		<link>http://math.meijo-u.ac.jp/sugakukai/src/report/20180210.html</link>
+			<description><![CDATA[名城大学 数学会のサイトです．名城大学理工学部の同窓会サイトです．]]></description>
+		<dc:date>2019-02-10T12:15:56+09:00</dc:date>
+		<dc:subject>名城大学,数学会,同窓会,理工学部,数学科</dc:subject>
+		<content:encoded><![CDATA[名城大学 数学会へようこそ
+]]></content:encoded>
+	</item>
+	<item rdf:about="http://math.meijo-u.ac.jp/sugakukai/src/report/20180320.html">
+		<title>名城大学 数学会</title>
+		<link>http://math.meijo-u.ac.jp/sugakukai/src/report/20180320.html</link>
+			<description><![CDATA[名城大学 数学会のサイトです．名城大学理工学部の同窓会サイトです．]]></description>
+		<dc:date>2019-02-10T12:15:56+09:00</dc:date>
+		<dc:subject>名城大学,数学会,同窓会,理工学部,数学科</dc:subject>
+		<content:encoded><![CDATA[名城大学 数学会へようこそ
+]]></content:encoded>
+	</item>
+	<item rdf:about="http://math.meijo-u.ac.jp/sugakukai/src/report/20180610.html">
+		<title>名城大学 数学会</title>
+		<link>http://math.meijo-u.ac.jp/sugakukai/src/report/20180610.html</link>
+			<description><![CDATA[名城大学 数学会のサイトです．名城大学理工学部の同窓会サイトです．]]></description>
+		<dc:date>2019-02-10T12:15:56+09:00</dc:date>
+		<dc:subject>名城大学,数学会,同窓会,理工学部,数学科</dc:subject>
+		<content:encoded><![CDATA[名城大学 数学会へようこそ
+]]></content:encoded>
+	</item>
+	<item rdf:about="http://math.meijo-u.ac.jp/sugakukai/src/report/20190114.html">
+		<title>名城大学 数学会</title>
+		<link>http://math.meijo-u.ac.jp/sugakukai/src/report/20190114.html</link>
+			<description><![CDATA[名城大学 数学会のサイトです．名城大学理工学部の同窓会サイトです．]]></description>
+		<dc:date>2019-02-10T12:15:56+09:00</dc:date>
+		<dc:subject>名城大学,数学会,同窓会,理工学部,数学科</dc:subject>
+		<content:encoded><![CDATA[名城大学 数学会へようこそ
+]]></content:encoded>
+	</item>
+	<item rdf:about="http://math.meijo-u.ac.jp/sugakukai/src/report.html">
+		<title>事業報告|名城大学 数学会</title>
+		<link>http://math.meijo-u.ac.jp/sugakukai/src/report.html</link>
+			<description><![CDATA[名城大学 数学会のサイトです．名城大学理工学部の同窓会サイトです．]]></description>
+		<dc:date>2019-02-10T12:15:56+09:00</dc:date>
+		<dc:subject>名城大学,数学会,同窓会,理工学部,数学科</dc:subject>
+		<content:encoded><![CDATA[名城大学 数学会へようこそ
+]]></content:encoded>
+	</item>
+	<item rdf:about="http://math.meijo-u.ac.jp/sugakukai/index.html">
+		<title>名城大学 数学会</title>
+		<link>http://math.meijo-u.ac.jp/sugakukai/index.html</link>
+			<description><![CDATA[名城大学 数学会のサイトです．名城大学理工学部の同窓会サイトです．]]></description>
+		<dc:date>2019-02-10T12:15:54+09:00</dc:date>
+		<dc:subject>名城大学,数学会,同窓会,理工学部,数学科</dc:subject>
+		<content:encoded><![CDATA[<font size=5 color="#BBDEFB">
+<a href="src/index.html">
+<img src="src/images/home.jpg" align="center" width="340">
+</a>
+<br> Welcome to ようこそ
+<b>
+<a href="src/index.html">名城大学 数学会</a>
+</b>
+<br>
+<span style="background-color:#4CAF50">
+<a href="src/index.html">Enter</a>
+</span>
+]]></content:encoded>
+	</item>
+	<item rdf:about="http://math.meijo-u.ac.jp/sugakukai/src/album/20170611.html">
+		<title>名城大学 数学会</title>
+		<link>http://math.meijo-u.ac.jp/sugakukai/src/album/20170611.html</link>
+			<description><![CDATA[名城大学 数学会のサイトです．名城大学理工学部の同窓会サイトです．]]></description>
+		<dc:date>2019-02-10T12:15:54+09:00</dc:date>
+		<dc:subject>名城大学,数学会,同窓会,理工学部,数学科</dc:subject>
+		<content:encoded><![CDATA[名城大学 数学会へようこそ
+]]></content:encoded>
+	</item>
+	<item rdf:about="http://math.meijo-u.ac.jp/sugakukai/src/album/20180108.html">
+		<title>名城大学 数学会</title>
+		<link>http://math.meijo-u.ac.jp/sugakukai/src/album/20180108.html</link>
+			<description><![CDATA[名城大学 数学会のサイトです．名城大学理工学部の同窓会サイトです．]]></description>
+		<dc:date>2019-02-10T12:15:54+09:00</dc:date>
+		<dc:subject>名城大学,数学会,同窓会,理工学部,数学科</dc:subject>
+		<content:encoded><![CDATA[名城大学 数学会へようこそ
+]]></content:encoded>
+	</item>
+	<item rdf:about="http://math.meijo-u.ac.jp/sugakukai/src/album/20180320.html">
+		<title>名城大学 数学会</title>
+		<link>http://math.meijo-u.ac.jp/sugakukai/src/album/20180320.html</link>
+			<description><![CDATA[名城大学 数学会のサイトです．名城大学理工学部の同窓会サイトです．]]></description>
+		<dc:date>2019-02-10T12:15:54+09:00</dc:date>
+		<dc:subject>名城大学,数学会,同窓会,理工学部,数学科</dc:subject>
+		<content:encoded><![CDATA[名城大学 数学会へようこそ
+]]></content:encoded>
+	</item>
+	<item rdf:about="http://math.meijo-u.ac.jp/sugakukai/src/album/20180610.html">
+		<title>名城大学 数学会</title>
+		<link>http://math.meijo-u.ac.jp/sugakukai/src/album/20180610.html</link>
+			<description><![CDATA[名城大学 数学会のサイトです．名城大学理工学部の同窓会サイトです．]]></description>
+		<dc:date>2019-02-10T12:15:54+09:00</dc:date>
+		<dc:subject>名城大学,数学会,同窓会,理工学部,数学科</dc:subject>
+		<content:encoded><![CDATA[名城大学 数学会へようこそ
+]]></content:encoded>
+	</item>
+	<item rdf:about="http://math.meijo-u.ac.jp/sugakukai/src/album/20180918.html">
+		<title>名城大学 数学会</title>
+		<link>http://math.meijo-u.ac.jp/sugakukai/src/album/20180918.html</link>
+			<description><![CDATA[名城大学 数学会のサイトです．名城大学理工学部の同窓会サイトです．]]></description>
+		<dc:date>2019-02-10T12:15:54+09:00</dc:date>
+		<dc:subject>名城大学,数学会,同窓会,理工学部,数学科</dc:subject>
+		<content:encoded><![CDATA[名城大学 数学会へようこそ
+]]></content:encoded>
+	</item>
+	<item rdf:about="http://math.meijo-u.ac.jp/sugakukai/src/album.html">
+		<title>アルバム|名城大学 数学会</title>
+		<link>http://math.meijo-u.ac.jp/sugakukai/src/album.html</link>
+			<description><![CDATA[名城大学 数学会のサイトです．名城大学理工学部の同窓会サイトです．]]></description>
+		<dc:date>2019-02-10T12:15:54+09:00</dc:date>
+		<dc:subject>名城大学,数学会,同窓会,理工学部,数学科</dc:subject>
+		<content:encoded><![CDATA[名城大学 数学会へようこそ
+]]></content:encoded>
+	</item>
+	<!-- /ENTRIES -->
+</rdf:RDF>
