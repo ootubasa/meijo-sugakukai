@@ -4,5 +4,5 @@
 <a href="https://ootubasa.github.io/meijo-sugakukai/index.html">こちら</a>は編集中のサイトです。
 <br><br>
 参考にしたサイト<br>
-<a href="http://www.coolwebwindow.com">Cool Web Window</a><br>
-<a href="http://www.nishishi.com/soft/rssmaker">RSS自動作成ソフト「Fumy RSS & Atom Maker」</a>
+・<a href="http://www.coolwebwindow.com">Cool Web Window</a><br>
+・<a href="http://www.nishishi.com/soft/rssmaker">RSS自動作成ソフト「Fumy RSS & Atom Maker」</a>
