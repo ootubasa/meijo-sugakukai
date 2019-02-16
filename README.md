@@ -6,5 +6,5 @@
 
 ## 参考にしたサイト
 
-* [Cool Web Window]("http://www.coolwebwindow.com")
-* [RSS自動作成ソフト「Fumy RSS & Atom Maker」]("http://www.nishishi.com/soft/rssmaker")
+* [Cool Web Window](URL "http://www.coolwebwindow.com")
+* [RSS自動作成ソフト「Fumy RSS & Atom Maker」](URL "http://www.nishishi.com/soft/rssmaker")
