@@ -1,8 +1,10 @@
 # 名城大学 数学会 HP
 
-<a href="http://math.meijo-u.ac.jp/sugakukai/index.html">名城大学 数学会</a>のサイトを管理するためのものです。<br>
-<a href="https://ootubasa.github.io/meijo-sugakukai/index.html">こちら</a>は編集中のサイトです。
-<br><br>
-参考にしたサイト<br>
-・<a href="http://www.coolwebwindow.com">Cool Web Window</a><br>
-・<a href="http://www.nishishi.com/soft/rssmaker">RSS自動作成ソフト「Fumy RSS & Atom Maker」</a>
+[名城大学 数学会]("http://math.meijo-u.ac.jp/sugakukai/index.html")のサイトを管理するためのものです。
+
+[こちら]("https://ootubasa.github.io/meijo-sugakukai/index.html")は編集中のサイトです。
+
+## 参考にしたサイト
+
+* [Cool Web Window]("http://www.coolwebwindow.com")
+* [RSS自動作成ソフト「Fumy RSS & Atom Maker」]("http://www.nishishi.com/soft/rssmaker")
