@@ -1,8 +1,8 @@
 # 名城大学 数学会 HP
 
-[名城大学 数学会](URL "http://math.meijo-u.ac.jp/sugakukai/index.html")のサイトを管理するためのものです。
+[名城大学 数学会](http://math.meijo-u.ac.jp/sugakukai/index.html)のサイトを管理するためのものです。
 
-[こちら](URL "https://ootubasa.github.io/meijo-sugakukai/index.html")は編集中のサイトです。
+[こちら](https://ootubasa.github.io/meijo-sugakukai/index.html)は編集中のサイトです。
 
 ## 参考にしたサイト
 
