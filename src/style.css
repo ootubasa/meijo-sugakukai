@@ -1,0 +1,503 @@
+@charset "utf-8";
+
+
+/* =Reset default browser CSS.
+Based on work by Eric Meyer: http://meyerweb.com/eric/tools/css/reset/index.html
+-------------------------------------------------------------- */
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {border: 0;font-family: inherit;font-size: 100%;font-style: inherit;font-weight: inherit;margin: 0;outline: 0;padding: 0;vertical-align: baseline;}
+:focus {outline: 0;}
+
+ol, ul {list-style: none;}
+table {border-collapse: separate;border-spacing: 0;}
+caption, th, td {font-weight: normal;text-align: left;}
+blockquote:before, blockquote:after,q:before, q:after {content: "";}
+blockquote, q {quotes: "" "";}
+a img{border: 0;}
+figure{margin:0}
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {display: block;}
+/* -------------------------------------------------------------- */
+
+body{
+color:#333;
+font:12px verdana,"ヒラギノ丸ゴ ProN W4","Hiragino Maru Gothic ProN","メイリオ","Meiryo","ＭＳ Ｐゴシック","MS PGothic",Sans-Serif;
+line-height:1.5;
+background:#fff;
+-webkit-text-size-adjust: none;
+}
+
+html{background:#a9cf6b;}
+
+
+/* リンク設定
+------------------------------------------------------------*/
+a{color:#a9cf6b;text-decoration:none;}
+a:hover{color:#739938;}
+a:active, a:focus{outline:0;}
+
+
+/* 全体
+------------------------------------------------------------*/
+#wrapper{
+margin:0 auto;
+padding:0 1%;
+width:98%;
+position:relative;
+}
+
+.inner{
+margin:0 auto;
+width:100%;
+}
+
+
+/*************
+/* ヘッダー
+*************/
+h1{
+font-size:12px;
+line-height:1.6;
+font-weight:normal;
+background:#a9cf6b;
+color:#fff;
+}
+
+#header{
+overflow:hidden;
+padding:5px 0 15px;
+}
+
+* html #header{height:1%;}
+
+
+/*************
+/* ロゴ
+*************/
+#header .logo{
+float:left;
+padding:25px 0 0;
+}
+
+.logo a{
+font-size:20px;
+font-weight:bold;
+line-height:1;
+font-family:"Palatino Linotype", "Book Antiqua", Palatino,"ヒラギノ明朝 Pro W3","Hiragino Mincho Pro","ＭＳ Ｐ明朝","MS PMincho",serif;
+}
+
+.logo span{
+font-size:12px;
+font-weight:normal;
+color:#333;
+}
+
+.info{
+float:right;
+padding:20px 0 0;
+}
+
+.tel strong{
+font-size:20px;
+font-weight:bold;
+}
+
+/**************************
+/* トップナビゲーション
+**************************/
+ul#topnav{
+overflow:hidden;
+margin:10px 0;
+}
+
+* html ul#topnav{height:1%;}
+
+ul#topnav li{
+float:left;
+text-align:center;
+}
+
+ul#topnav a{
+width:156px;
+font-size:13px;
+display:block;
+padding:20px 0;
+color:#fff;
+background:#a9cf6b;
+border-left:1px solid #739938;
+}
+
+ul#topnav li:first-child a,ul#topnav li:last-child a{width:155px;}
+
+ul#topnav li.active a,ul#topnav a:hover{background:#739938;}
+
+
+/**************************
+/* メイン画像（トップページ+サブページ）
+**************************/
+#mainBanner{
+clear:both;
+margin:20px auto 20px;
+padding:4px;
+position:relative;
+line-height:0;
+background:#a9cf6b;
+}
+
+#mainBanner img{
+max-width:100%;
+height:auto;
+}
+
+.slogan{
+position:absolute;
+max-width:100%;
+height:auto;
+bottom:10px;
+left:10px;
+padding:5px 10px;
+line-height:1.4;
+z-index:100;
+background:url(images/tp2.png);
+}
+
+.slogan h2{
+padding-bottom:5px;
+color:#fff;
+font-size:20px;
+}
+
+.slogan h3{
+font-size:14px;
+color:#ccc;
+}
+
+
+/**************************
+/* グリッド
+**************************/
+.gridWrapper{
+clear:both;
+padding:20px 0;
+overflow:hidden;
+}
+
+* html .gridWrapper{height:1%;}
+	
+.grid{
+float:left;
+}
+
+.colDark,.colLight{
+padding-bottom:5px;
+border-top:3px solid #a9cf6b;
+border-bottom:3px solid #a9cf6b;
+}
+
+.colLight{border-color:#739938}
+
+.colDark h3,.colLight h3{
+margin:10px 10px 5px;
+font-size:14px;
+font-weight:bold;
+}
+
+.colDark a,.colLight a{
+display:block;
+padding:3px 5px;
+border-radius:3px;
+color:#fff;
+background:#a9cf6b;
+}
+
+.colLight a{background:#739938;}
+
+.colDark a:hover{
+background:#739938;
+}
+
+.colLight a:hover{
+background:#a9cf6b;
+}
+
+.grid p{
+padding:5px 10px;
+}
+
+.grid ul{margin:5px 10px;}
+
+.grid li{
+padding:5px 0;
+list-style:inside;
+border-bottom:1px dashed #ebebeb;
+}
+
+.gridWrapper img{
+max-width:100%;
+height:auto;
+}
+
+/* フッター内のグリッド(3カラム) */
+#footer .grid{
+color:#fff;
+background:transparent;
+}
+
+#footer .col3 ul{margin:0 0 10px 5px;}
+
+#footer .col3 li{
+padding:0 6px 0 5px;
+margin-bottom:3px;
+list-style:none;
+border-bottom:0;
+display:inline-block;
+border-right:1px solid #fff;
+}
+
+
+/*************
+メイン コンテンツ
+*************/
+section.content{
+margin-bottom:20px;
+font-size:14px;
+overflow:hidden;
+}
+
+* html section.content{height:1%;}
+
+section.content p{margin-bottom:5px;}
+
+h3.heading,#sub .grid h3{
+padding:5px 10px;
+margin-bottom:10px;
+font-size:16px;
+background:#f5f5f5;
+border-left:7px solid #a9cf6b;  
+}
+#sub .grid h3{margin-right:10px;}
+
+.alignleft{
+float:left;
+clear:left;
+margin:3px 10px 10px 1px;
+}
+
+.alignright{
+float:right;
+clear:right;
+margin:3px 1px 10px 10px;
+}
+
+img.frame,#gallery img{
+border:4px solid #fff;
+box-shadow:0 0 2px rgba(0, 0, 0, 0.5);
+-webkit-box-shadow:0 0 2px rgba(0, 0, 0, 0.5);
+}
+
+#gallery .gridWrapper{padding:0;}
+
+#gallery img{
+margin:5px;
+}
+
+section#gallery{overflow:visible;}
+
+
+/*************
+テーブル
+*************/
+table.table{
+border-collapse:collapse;
+width:100%;
+margin:10px auto;
+}
+
+table.table th,table.table td{
+padding:5px;
+border:1px solid #739938;
+}
+
+table.table tr:first-child th,table.table tr:first-child td{
+border-top:#739938 4px solid
+}
+
+table.table th{
+font-weight:bold;
+letter-spacing:1px;
+white-space:nowrap;
+color:#fff;
+background:#a9cf6b;
+}
+
+
+/*************
+/* フッター
+*************/
+#footer{
+clear:both;
+padding:20px 0;
+overflow:hidden;
+background:#a9cf6b;
+border-top:1px solid #739938;
+}
+
+* html #footer{height:1%;}
+
+#footer a{color:#fff;}
+#footer a:hover{color:#739938;}
+
+#footer .copyright{font-size:11px;}
+
+
+/* PC用 */
+@media only screen and (min-width:960px){
+	#wrapper,.inner{
+	width:940px;
+	padding:0;
+	}
+	
+	#wrapper{padding-bottom:20px;}
+	
+	#main{
+	float:right;
+	width:690px;
+	}
+	
+	#subpage #sub{
+	float:left;
+	width:235px;
+	overflow:hidden;
+	}
+	
+	/* グリッド */
+	.grid{width:235px;}
+	.col2{width:470px;}
+	.col3{width:705px;}
+	#gallery .grid{width:230px;}
+	#subpage #sub .grid{
+	width:100%;
+	float:none;
+	padding-bottom:30px;
+	}
+	
+}
+
+
+/* モニター幅960px以下 */
+@media only screen and (max-width:960px){
+	h1 p.inner{padding:0 2%;width:96%}
+	#header .logo{padding-left:10px;}
+	#header .info{padding-right:10px;}
+	
+	ul#topnav{
+	clear:both;
+	width:100%;
+	}
+
+	ul#topnav li{
+	width:33%;
+	margin:0 0 5px;
+	border-right:1px solid #739938;
+	box-sizing:border-box;
+  -webkit-box-sizing:border-box;
+  -moz-box-sizing:border-box;
+	}
+
+	ul#topnav li:nth-child(3n){border-right:0;width:34%;}
+
+	ul#topnav li a{
+	width:100%;
+	border-top:0;
+	}
+
+	ul#topnav li:first-child a,ul#topnav li:last-child a{width:100%;}
+	
+	.grid{
+	width:50%;
+	margin:2px 0;
+	}
+	
+	.col2{
+	float:none;
+	width:100%;
+	margin:0 0 20px;
+	}
+	
+	.grid img{
+	float:left;
+	margin-right:5px;
+	}
+	
+	#gallery .grid{
+	width:31%;
+	margin:0 1%;
+	padding:0;
+	}
+	
+	#gallery .grid img{
+	float:none;
+	}
+	
+	section.content{padding:0 10px;}
+	
+	section.content img{
+  max-width:90%;
+	height:auto;
+	}
+	
+	#sub .grid{padding-bottom:20px;}
+	
+	#footer{padding:0;}
+	
+	#footer .grid{
+	float:none;
+	width:100%;
+	margin-bottom:5px;
+	text-align:center;
+	}
+}
+
+
+/* iPad 縦 */
+@media only screen and (max-width:768px){
+	#mainBanner{padding:3px;}
+}
+
+
+/* スマートフォン 横(ランドスケープ) */
+@media only screen and (max-width:640px){
+	.grid{width:100%;}
+	
+	.grid img{
+	float:none;
+	margin:20px auto 10px;
+	}
+	
+	.grid p{text-align:left;}
+	
+	img.frame,#gallery img{border-width:2px;}
+
+  .alignleft,.alignright{
+	float:none;
+	display:block;
+	margin:0 auto 10px;
+	}
+	
+	#footer .grid p{text-align:center;}
+}
+
+
+/* スマートフォン 縦(ポートレート) */
+@media only screen and (max-width:480px){
+	#header .logo{padding-top:10px;}
+  .info{padding:10px 0 0;}
+	ul#topnav li{width:50%;}
+
+	ul#topnav li:nth-child(3n){
+	border-right:1px solid #739938;
+	width:50%;
+	}	
+	ul#topnav li:nth-child(2n),ul#topnav li:nth-child(6n){border-right:0;}
+	
+	#mainBanner{margin-left:1px;}
+	#mainBanner h2,#mainBanner h3{font-size:80%;}
+}
